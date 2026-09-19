@@ -30,4 +30,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
