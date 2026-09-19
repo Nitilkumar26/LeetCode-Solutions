@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
 |  |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
