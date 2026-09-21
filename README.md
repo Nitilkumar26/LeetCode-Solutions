@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
