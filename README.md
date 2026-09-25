@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
@@ -68,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Nitilkumar26/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
